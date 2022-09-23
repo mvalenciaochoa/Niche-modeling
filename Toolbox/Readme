@@ -1,0 +1,5 @@
+The method uses Anton_schmecko multivariate outliers handler for the remove outliers option for the methods that specify it, the "main" is PI livescript that shows
+the process in which you can run the code to get the results obtained in the paper (For the use of virtual species the results should vary based on the geenrated samples)
+if you want to use a different map than the one we use, you can change the bio files under the folder Tool_landscape/data/layers , you can add as many files representing 
+the environmental variables of the map as long as you are taking into account more than 2 variables, also for modifying the main method you can change the coloring border
+function.
